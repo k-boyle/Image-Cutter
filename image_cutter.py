@@ -30,6 +30,7 @@ def chunk_frame(frame, hor_chunks, ver_chunks):
 
     return chunks
 
+
 args = sys.argv
 
 if len (args) != 4:
